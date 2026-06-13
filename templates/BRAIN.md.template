@@ -1,0 +1,19 @@
+# Wisdom Seeds — Cross-Project Patterns
+
+Seeds stored here apply across all projects. Each must pass 4 invariants:
+
+| Invariant | Requirement |
+|---|---|
+| **Compression** | Under 12 words. No qualifiers. Maximum density. |
+| **Generative** | Unfolds differently across domains without modification. |
+| **Falsifiable** | Ignoring it produces a specific, visible, nameable failure. |
+| **Decompressible** | Expands into a full reasoning chain unprompted. |
+
+## Seeds
+
+| Seed | Pattern | Deploy When |
+|---|---|---|
+| (none yet) | | |
+
+---
+*Add seeds when: a task fails and the failure compresses into a preventable pattern, a task produces high-quality output worth encoding, or patterns converge in high-signal atomic insight.*

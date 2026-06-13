@@ -1,0 +1,28 @@
+# Project State — acidgreen Topology
+
+## Topology Phase
+
+**Phase:** floor
+**Verified Intent:** (not yet set)
+**Confidence:** (not yet assessed)
+
+Phases: floor (mapping) → bridge (connecting) → ceiling (completing)
+
+## Blast Radius
+
+**Last change scope:** (none yet)
+**Affected components:** (none yet)
+
+## Modified Files
+
+(No modifications tracked yet)
+
+## Git Hygiene
+
+**Worktree:** clean
+**Uncommitted:** 0
+**Untracked:** 0
+
+---
+*Update this file at each topology phase transition, after every file modification, and before session handoff.*
+*Never write code without first ensuring STATE.md reflects the current invariant map.*

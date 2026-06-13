@@ -1,0 +1,12 @@
+{
+  "name": "acidgreen",
+  "version": "1.0.0",
+  "description": "Injects topology-first reasoning, security-first design, 4 Invariables, Dialogue Discipline, Verification Gate, and Friction Loop into every Claude Code session.",
+  "author": {
+    "name": "acidgreenservers (Lucas Kara)",
+    "url": "https://github.com/acidgreenservers"
+  },
+  "license": "MIT",
+  "keywords": ["reasoning", "topology", "security", "architecture", "workflow"],
+  "hooks": "./hooks/hooks.json"
+}
