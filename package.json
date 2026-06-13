@@ -1,0 +1,30 @@
+{
+  "name": "acidgreen",
+  "version": "1.0.0",
+  "description": "Codebase Reasoning Topology plugin for Claude Code — topology-first reasoning, 4 Invariables, security-first design, Friction Loop, Verification Gate.",
+  "author": "acidgreenservers (Lucas Kara)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeebus87/acidgreenserverplugin.git"
+  },
+  "homepage": "https://github.com/jeebus87/acidgreenserverplugin",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "reasoning",
+    "topology",
+    "security",
+    "architecture",
+    "ai-coding",
+    "codebase-reasoning"
+  ],
+  "files": [
+    ".claude-plugin/",
+    "hooks/",
+    "scripts/",
+    "skills/",
+    "templates/",
+    "README.md"
+  ]
+}

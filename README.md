@@ -41,11 +41,19 @@ No prompt engineering. No system prompt pasting. No configuration.
 
 ## Install
 
+**npm:**
+
+```bash
+npm install -g acidgreen
+```
+
+**or clone:**
+
 ```bash
 git clone https://github.com/jeebus87/acidgreenserverplugin.git ~/.claude/plugins/acidgreen
 ```
 
-That's it. No `npm install`. No build. No config files.
+That's it. No build step. No config files.
 
 <br>
 
